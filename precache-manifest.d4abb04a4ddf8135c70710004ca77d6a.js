@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c2010c81f1e911be3bb3b08831316330",
+    "revision": "d9d05eb342acb93a8173e92229ffe92f",
     "url": "/longrich/index.html"
   },
   {
-    "revision": "bc94e088de5693d28637",
+    "revision": "e6c3d1cfa450786346cf",
     "url": "/longrich/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/longrich/static/js/2.ecbcd05e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bc94e088de5693d28637",
-    "url": "/longrich/static/js/main.694a39a5.chunk.js"
+    "revision": "e6c3d1cfa450786346cf",
+    "url": "/longrich/static/js/main.d109773a.chunk.js"
   },
   {
     "revision": "0ce0849c9d0e4fd6089d",
